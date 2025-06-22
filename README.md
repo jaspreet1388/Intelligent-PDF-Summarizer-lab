@@ -105,3 +105,5 @@ Once the azd up command finishes, the app will have successfully provisioned and
 
 # Using the app
 To use the app, simply upload a PDF to the Blob Storage `input` container. Once the PDF is transferred, it will be processed using document intelligence and Azure OpenAI. The resulting summary will be saved to a new file and uploaded to the `output` container.
+
+**Video tutorial ** : https://youtu.be/v6BcGZ7YuyE
