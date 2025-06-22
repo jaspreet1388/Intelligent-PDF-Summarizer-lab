@@ -1,0 +1,2 @@
+Azurite Blob service is starting at http://127.0.0.1:10000
+Exit due to unhandled error: listen EADDRINUSE: address already in use 127.0.0.1:10000

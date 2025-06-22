@@ -13,3 +13,4 @@ requests
 pandas
 numpy
 PyPDF2
+openai
